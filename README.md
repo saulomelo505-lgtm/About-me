@@ -7,20 +7,20 @@ technical skills
 
 <p>
 
-<span style="background:#ffffff;padding:10px;border-radius:10px;margin:5px;display:inline-block;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</span>
+<div style="background:white;width:60px;height:60px;display:inline-flex;align-items:center;justify-content:center;border-radius:10px;border:1px solid #ddd;margin:5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+</div>
 
-<span style="background:#ffffff;padding:10px;border-radius:10px;margin:5px;display:inline-block;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-</span>
+<div style="background:white;width:60px;height:60px;display:inline-flex;align-items:center;justify-content:center;border-radius:10px;border:1px solid #ddd;margin:5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+</div>
 
-<span style="background:#ffffff;padding:10px;border-radius:10px;margin:5px;display:inline-block;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</span>
+<div style="background:white;width:60px;height:60px;display:inline-flex;align-items:center;justify-content:center;border-radius:10px;border:1px solid #ddd;margin:5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35"/>
+</div>
 
-<span style="background:#ffffff;padding:10px;border-radius:10px;margin:5px;display:inline-block;">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" width="40"/>
-</span>
+<div style="background:white;width:60px;height:60px;display:inline-flex;align-items:center;justify-content:center;border-radius:10px;border:1px solid #ddd;margin:5px;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" width="35"/>
+</div>
 
 </p>
