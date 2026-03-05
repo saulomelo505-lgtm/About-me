@@ -4,4 +4,5 @@ I'm Saulo, a technology enthusiast focused on building practical solutions and c
 
 
 technical skills
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
