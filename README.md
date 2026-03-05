@@ -2,9 +2,6 @@
 
 I'm Saulo, a technology enthusiast focused on building practical solutions and continuously improving my technical skills. My interests include software development, problem-solving, and exploring new technologies to create efficient and scalable systems. 🚀💻
 
-
-technical skills
-
 <h3>🚀 Tech Stack</h3>
 
 <table>
