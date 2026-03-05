@@ -7,19 +7,19 @@ technical skills
 
 <p>
 
-<span style="background:#1e1e1e;padding:10px;border-radius:10px;margin:5px;">
+<span style="background:#ffffff;padding:10px;border-radius:10px;margin:5px;display:inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </span>
 
-<span style="background:#1e1e1e;padding:10px;border-radius:10px;margin:5px;">
+<span style="background:#ffffff;padding:10px;border-radius:10px;margin:5px;display:inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 </span>
 
-<span style="background:#1e1e1e;padding:10px;border-radius:10px;margin:5px;">
+<span style="background:#ffffff;padding:10px;border-radius:10px;margin:5px;display:inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 </span>
 
-<span style="background:#1e1e1e;padding:10px;border-radius:10px;margin:5px;">
+<span style="background:#ffffff;padding:10px;border-radius:10px;margin:5px;display:inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" width="40"/>
 </span>
 
