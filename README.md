@@ -38,11 +38,11 @@ public class SauloVehuel {
 
  private String name = "Saulo Vehuel";
  
- private String role = "Engenheiro de Backend & Arquiteto Cloud";
+ private String role = "Engenheiro de Backend & Soluções Cloud";
  
  private String location = "Juazeiro do Norte, Ceará 🇧🇷";
  
- private String education = "Estudante PROEJA - Sistemas da Informação";
+ private String education = "Estudante IFCE - Sistemas da Informação";
  
  private String passion = "Construir sistemas escaláveis que resolvem problemas reais 🚀";
  
@@ -169,33 +169,6 @@ STATUS: SEMPRE EVOLUINDO 🚀
 ├── 📚  Padrões avançados de design de sistemas
 ├── 🚀  Contribuição em projetos open source
 └── 💾  Otimização de queries e performance em BD
-```
-
----
-
-## 📖 Metodologia de Aprendizado
-
-Acredito em aprendizado contínuo e estruturado:
-
-```
-Dia a dia: 1h de estudo com Obsidian + Claude MCP
-Projetos práticos: Aplicação imediata do conhecimento
-Code Review: Audit constante de código com especialistas
-Open Source: Contribuição comunitária
-Compartilhamento: Documentação clara e artigos técnicos
-```
-
----
-
-## 🌱 O que Me Move
-
-```
-✨ Problemas complexos que exigem soluções criativas
-✨ Código limpo e bem arquitetado
-✨ Sistemas que fazem diferença real
-✨ Comunidade tech brasileira forte
-✨ Constante evolução e aprendizado
-✨ Automatizar o repetitivo para focar no importante
 ```
 
 ---
