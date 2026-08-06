@@ -12,7 +12,7 @@
 
 ```bash
 ╭────────────────────────────────────────╮
-│   SAULO MELO - BACKEND ENGINEER v3.0   │
+│   SAULO VEHUEL - BACKEND ENGINEER v3.0   │
 ╰────────────────────────────────────────╯
 
 Initializing core systems...
