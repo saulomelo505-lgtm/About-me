@@ -1,262 +1,257 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1a1a2e,50:16213e,100:0f3460&text=SAULO%20MELO&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1a2f1f,50:2d5a3d,100:4a8f63&text=SAULO%20VEHUEL&fontSize=65&fontColor=a8e6c9&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00d4ff&center=true&vCenter=true&width=900&lines=BACKEND+ARCHITECT;CLOUD+ENGINEER;AWS+%7C+JAVA+%7C+PYTHON;AI+%26+AUTOMATION+ENTHUSIAST;BUILDING+SCALABLE+SYSTEMS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=56ab91&center=true&vCenter=true&width=900&lines=SISTEMA+INICIANDO...;ENGENHEIRO+DE+BACKEND;ARQUITETO+DE+NUVEM;JAVA+%7C+PYTHON+%7C+AWS;AUTOMATIZA%C3%87%C3%83O+COM+IA+E+n8n"/>
 
 </div>
 
 ---
 
-## 🔧 SYSTEM CONFIGURATION
+## 🤖 CORE DO SAULO
 
 ```bash
-╭────────────────────────────────────────╮
-│   SAULO VEHUEL - BACKEND ENGINEER v3.0   │
-╰────────────────────────────────────────╯
+╭────────────────────────────╮
+│   SAULO VEHUEL v4.2        │
+│   BACKEND ARCHITECT        │
+╰────────────────────────────╯
 
-Initializing core systems...
+Inicializando sistema...
 
 ████████████████████ 100%
 
-✔ Backend engine activated
-✔ Cloud infrastructure ready
-✔ AWS credentials loaded
-✔ Database connections pooled
-✔ Microservices deployed
+✔ Motor de backend ativado
+✔ Infraestrutura cloud pronta
+✔ Automação n8n conectada
+✔ Banco de dados sincronizado
+✔ Projetos carregados
 
-STATUS: PRODUCTION READY 🚀
+STATUS: ONLINE 🚀
 ```
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-```python
-class SauloMelo:
-    def __init__(self):
-        self.name = "Saulo Melo"
-        self.role = "Backend Engineer & Cloud Architect"
-        self.location = "Juazeiro do Norte, Ceará 🇧🇷"
-        self.education = "PROEJA - Systems Information"
-        
-        self.expertise = {
-            "backend": [
-                "Java (Spring Boot, OOP avançado)",
-                "Python (FastAPI, SQLAlchemy)",
-                "RESTful APIs",
-                "Microservices Architecture",
-                "Design Patterns (DAO, Singleton, MVC)"
-            ],
-            
-            "cloud": [
-                "AWS (EC2, Lambda, DynamoDB)",
-                "Serverless Architecture",
-                "Infrastructure as Code (SAM, CloudFormation)",
-                "API Gateway, SNS, EventBridge",
-                "AWS re/Start Program Graduate"
-            ],
-            
-            "databases": [
-                "MySQL",
-                "SQLite",
-                "DynamoDB",
-                "SQL (JOINs, Aggregations, Subqueries)"
-            ],
-            
-            "ai_automation": [
-                "Claude API & MCP Integration",
-                "Prompt Engineering",
-                "n8n Automation",
-                "AI-powered Backend Solutions"
-            ]
-        }
-        
-        self.tools = [
-            "Git/GitHub",
-            "Docker",
-            "Maven",
-            "VS Code",
-            "Obsidian (MCP integration)",
-            "AWS CLI"
-        ]
-        
-        self.mission = "Architect scalable backend systems and cloud solutions"
+```java
+public class SauloVehuel {
 
-if __name__ == "__main__":
-    dev = SauloMelo()
-    dev.code()
+ private String name = "Saulo Vehuel";
+ 
+ private String role = "Engenheiro de Backend & Arquiteto Cloud";
+ 
+ private String location = "Juazeiro do Norte, Ceará 🇧🇷";
+ 
+ private String education = "Estudante PROEJA - Sistemas da Informação";
+ 
+ private String passion = "Construir sistemas escaláveis que resolvem problemas reais 🚀";
+ 
+ private Stack expertise = new Stack() {{
+    
+    backend.add("Java (Spring Boot, OOP avançado)");
+    backend.add("Python (FastAPI, SQLAlchemy)");
+    backend.add("APIs RESTful escaláveis");
+    backend.add("Arquitetura de Microserviços");
+    backend.add("Padrões de Design (DAO, Singleton, MVC)");
+    
+    cloud.add("AWS (Certificado Cloud Practitioner)");
+    cloud.add("Lambda, DynamoDB, API Gateway");
+    cloud.add("Arquitetura Serverless");
+    cloud.add("Infrastructure as Code (SAM, CloudFormation)");
+    cloud.add("Graduado AWS re/Start");
+    
+    databases.add("MySQL (JOINs, Agregações, Subconsultas)");
+    databases.add("SQLite");
+    databases.add("DynamoDB");
+    databases.add("Modelagem ER avançada");
+    
+    automation.add("n8n (Fluxos de automação complexos)");
+    automation.add("Integração Claude API & MCP");
+    automation.add("Engenharia de Prompts");
+    automation.add("Soluções IA em produção");
+    
+ }};
+ 
+ private List<String> tools = List.of(
+    "Git & GitHub", "Docker", "VS Code", "Obsidian com MCP",
+    "AWS CLI", "Insomnia", "MySQL Workbench", "n8n"
+ );
+ 
+ public void code() {
+    while (learning) {
+       buildAwesomeThings();
+       solveRealProblems();
+       shareKnowledge();
+    }
+ }
+}
 ```
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Stack Tecnológico
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,aws,docker,git,github,spring,maven,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,aws,docker,git,github,spring,vscode&perline=8"/>
+
+</div>
+
+<div align="center">
+
+### 🔄 Automação & Inteligência Artificial
+
+**n8n** • **Claude API** • **MCP Protocol** • **Prompt Engineering**
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
-| 🏥 Project | 🎯 Description | 📚 Stack |
+| 🏥 Projeto | 🎯 Descrição | 📚 Tecnologia |
 |---|---|---|
-| **Fila Zero Saúde** | Serverless medical appointment optimization for Brazil's SUS | AWS Lambda, DynamoDB, API Gateway, SAM, Python |
-| **ProjectClinicVet** | Veterinary clinic management system (Academic) | Java, Spring Boot, MySQL, DAO Pattern, Swing |
-| **FilaZero Saúde** | Backend queue redistribution & optimization service | FastAPI, SQLAlchemy, SQLite, JWT, Python |
-| **AWS re/Start Portfolio** | Cloud infrastructure & serverless best practices | EC2, Lambda, CloudFormation, EventBridge |
+| **Fila Zero Saúde** | Otimização serverless de agendamentos médicos para o SUS | AWS Lambda, DynamoDB, API Gateway, SAM, Python |
+| **ProjectClinicVet** | Sistema de gestão para clínica veterinária (Acadêmico) | Java, Spring Boot, MySQL, Padrão DAO, Swing |
+| **FilaZero Backend** | Serviço de redistribuição e otimização de filas | FastAPI, SQLAlchemy, SQLite, JWT Auth, Python |
+| **Automação com n8n** | Fluxos inteligentes de automação e integração de APIs | n8n, n8n Cloud, Webhooks, Transformações de dados |
 
 ---
 
-## 🎓 Certifications & Programs
+## 🎓 Certificações & Trajetória
 
 ```
 ┌─────────────────────────────────────┐
-│  AWS Cloud Practitioner Certified   │
-│  AWS re/Start Program - Graduated   │
-│  PROEJA - Systems Information       │
-│  Advanced Java Backend Development  │
+│  AWS Cloud Practitioner Certificate │
+│  AWS re/Start Program - Concluído   │
+│  PROEJA - Sistemas da Informação    │
+│  Desenvolvimento Java Backend Avançado │
+│  Especialização em Arquitetura Cloud   │
 └─────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 Current Objectives
+## 🧠 Missão Atual
 
 ```bash
-> Loading mission status...
+> Carregando objetivos...
 
-[██████████] Java Backend Architecture
-[██████████] AWS Cloud Solutions
-[█████████░] AI + Automation Integration
-[████████░░] System Design & Scalability
-[█████████░] Open Source Contributions
+[██████████] Arquitetura de Backend Java
 
-FOCUS AREAS:
-→ Microservices & Event-Driven Architectures
-→ Serverless Infrastructure Optimization
-→ AI-Powered Automation Systems
-→ Backend Performance & Scalability
+[██████████] Soluções Cloud AWS
 
-STATUS: CONSTANTLY EVOLVING 🚀
+[█████████░] Automação Inteligente com n8n
+
+[████████░░] Design de Sistemas Escaláveis
+
+[█████████░] Projetos Open Source
+
+FOCO PRINCIPAL:
+→ Arquiteturas orientadas a eventos
+→ Otimização de infraestrutura serverless
+→ Automação inteligente com IA
+→ Performance e escalabilidade em backend
+→ Contribuições à comunidade tech
+
+STATUS: SEMPRE EVOLUINDO 🚀
 ```
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saulomelo505-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00d4ff"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomelo505-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00d4ff"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saulomelo505-lgtm&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saulomelo505-lgtm&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-
-</div>
-
----
-
-## 🔐 What I'm Focused On
+## 💡 Interesses Técnicos Atuais
 
 ```
-├── 🏗️  Building scalable distributed systems
-├── ☁️  Mastering AWS serverless architecture
-├── 🤖  Integrating AI into backend solutions
-├── 📚  Advanced system design patterns
-├── 🚀  Contributing to open source projects
-└── 💾  Database optimization & query performance
+├── 🏗️  Arquiteturas distribuídas e escaláveis
+├── ☁️  Domínio profundo de AWS serverless
+├── 🤖  Integração de IA em soluções backend
+├── 🔄  Automação inteligente com n8n
+├── 📚  Padrões avançados de design de sistemas
+├── 🚀  Contribuição em projetos open source
+└── 💾  Otimização de queries e performance em BD
 ```
 
 ---
 
-## 🌐 Latest Tech Interests
+## 📖 Metodologia de Aprendizado
 
-- **Event-Driven Architectures** - Building reactive, scalable systems
-- **AI Integration** - Embedding Claude & LLMs into backend services
-- **Infrastructure as Code** - CloudFormation, SAM, Terraform
-- **Container Orchestration** - Docker, potential Kubernetes exploration
-- **API Design** - RESTful & GraphQL best practices
-- **Data Protection** - LGPD compliance & security protocols
+Acredito em aprendizado contínuo e estruturado:
+
+```
+Dia a dia: 1h de estudo com Obsidian + Claude MCP
+Projetos práticos: Aplicação imediata do conhecimento
+Code Review: Audit constante de código com especialistas
+Open Source: Contribuição comunitária
+Compartilhamento: Documentação clara e artigos técnicos
+```
 
 ---
 
-## 📈 Code Statistics
-
-<div align="center">
+## 🌱 O que Me Move
 
 ```
-Total Repositories:    15+
-Public Projects:       8
-Languages:            Java, Python, SQL, Bash
-Commits (2024):       200+
-Contributions:        Active
+✨ Problemas complexos que exigem soluções criativas
+✨ Código limpo e bem arquitetado
+✨ Sistemas que fazem diferença real
+✨ Comunidade tech brasileira forte
+✨ Constante evolução e aprendizado
+✨ Automatizar o repetitivo para focar no importante
 ```
-
-</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🔐 Segurança & Conformidade
+
+- LGPD (Lei Geral de Proteção de Dados)
+- Boas práticas de segurança em APIs REST
+- Criptografia de dados sensíveis
+- Autenticação & Autorização (JWT, OAuth)
+- Proteção contra ataques comuns (OWASP Top 10)
+
+---
+
+## 💬 Vamos Colaborar?
+
+```
+Procurando por:
+✓ Desenvolvimento backend robusto
+✓ Arquitetura e design de sistemas
+✓ Soluções cloud com AWS
+✓ Automação inteligente com n8n
+✓ Integração de IA em produção
+✓ Code review e mentorship
+
+Chame-me! Vamos construir algo incrível juntos.
+```
+
+---
+
+## 🌐 Conecte-se Comigo
 
 <div align="center">
 
 <a href="https://github.com/saulomelo505-lgtm">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=56ab91"/>
 </a>
 
-<a href="https://linkedin.com/in/saulo-melo">
+<a href="https://linkedin.com/in/saulo-vehuel">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:saulomelo@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://discord.com/users/saulovehuel">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
-
----
-
-## 💬 Let's Collaborate
-
-```
-Are you looking for:
-✓ Backend development & architecture
-✓ AWS cloud solutions
-✓ Python or Java specialists
-✓ API design & microservices
-✓ AI/ML integration in production
-
-Feel free to reach out! Let's build something amazing together.
-```
 
 ---
 
 <div align="center">
 
-### 🚀 "Clean code, scalable systems, and endless learning."
+### 💚 "Código limpo, sistemas escaláveis e aprendizado infinito."
 
-<img src="https://komarev.com/ghpvc/?username=saulomelo505-lgtm&style=for-the-badge&color=00d4ff"/>
+**Saulo Vehuel** | Backend Engineer | Cloud Architect | Automation Enthusiast
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:1a1a2e,50:16213e,100:0f3460"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:1a2f1f,50:2d5a3d,100:4a8f63"/>
