@@ -34,7 +34,7 @@ Construo APIs escaláveis em **Java** e **Python**, arquiteturas **serverless na
 
 ### 🏅 Certificações & Conquistas
 
-<div align="left">
+<div align="center">
 
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank">
 <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="120" style="margin-right: 15px;"/>
