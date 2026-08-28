@@ -34,12 +34,20 @@ Construo APIs escaláveis em **Java** e **Python**, arquiteturas **serverless na
 
 ### 🏅 Certificações & Conquistas
 
-<div align="center">
+<div align="left">
 
-<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-re%2FStart%20Graduate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/AWS%20Knowledge-Cloud%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank">
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="120" style="margin-right: 15px;"/>
+</a>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-re-start-graduate" target="_blank">
+<img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="120" style="margin-right: 15px;"/>
+</a>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-cloud-essentials-training-badge" target="_blank">
+<img src="https://images.credly.com/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Knowledge: Cloud Essentials" width="120" style="margin-right: 15px;"/>
+</a>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge" target="_blank">
+<img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner" width="120"/>
+</a>
 
 </div>
 
