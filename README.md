@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Engenheiro de Backend & Soluções Cloud, estudante de Sistemas da Informação no IFCE — Juazeiro do Norte, CE 🇧🇷.
+Engenheiro de Backend & Soluções Cloud, estudante de Sistemas da Informação no IFCE — Crato, CE 🇧🇷.
 Construo APIs escaláveis em **Java** e **Python**, arquiteturas **serverless na AWS** e fluxos de automação inteligente com **n8n + IA**.
 
 ---
@@ -73,9 +73,6 @@ Construo APIs escaláveis em **Java** e **Python**, arquiteturas **serverless na
 </a>
 <a href="https://linkedin.com/in/saulo-vehuel">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/saulovehuel">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
